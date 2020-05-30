@@ -1,1 +1,1 @@
-Version-02-SNAPSHOT
+Released Version-02
