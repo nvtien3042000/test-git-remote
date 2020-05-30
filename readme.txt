@@ -1,1 +1,1 @@
-Version-01-SNAPSHOT
+Version-01
